@@ -1,5 +1,8 @@
 ## Testing Repo for QXlsx issue
-- I hope everyone can use it freely...
+- I hope everyone can use it freely... 🙋‍♀️
+
+### QXlsx projects
+- See https://github.com/QtExcel for more information. 🌈
 
 <!--
 
